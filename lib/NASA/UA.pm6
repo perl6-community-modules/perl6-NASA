@@ -5,7 +5,7 @@ use JSON::Fast;
 use URI::Escape;
 
 has Str $.key = 'DEMO_KEY';
-has $!ua      = HTTP::Tinyish.new(agent => "Perl 6 NASA.pm6");
+has $!ua      = HTTP::Tinyish.new(agent => "Raku NASA Discoverer");
 
 method !request ($method, $url, *%params) {
     %params  = %params.kv.map: { uri-escape $_ };
