@@ -2,7 +2,7 @@
 
 # NAME
 
-NASA - use NASA's APIs via Perl 6
+NASA - use NASA's APIs via Raku
 
 # DESCRIPTION
 
@@ -35,12 +35,12 @@ be implemented, but aren't yet:
 # REPOSITORY
 
 Fork this module on GitHub:
-https://github.com/zoffixznet/perl6-NASA
+https://github.com/raku-community-modules/NASA
 
 # BUGS
 
 To report bugs or request features, please use
-https://github.com/zoffixznet/perl6-NASA/issues
+https://github.com/raku-community-modules/NASA/issues
 
 # AUTHOR
 
