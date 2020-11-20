@@ -3,7 +3,7 @@
     "name"         : "NASA",
     "license"      : "Artistic-2.0",
     "version"      : "1.001001",
-    "description"  : "use NASA's APIs via Perl 6",
+    "description"  : "use NASA's APIs via Raku",
     "depends"      : [
         "HTTP::Tinyish",
         "JSON::Fast",
@@ -19,5 +19,5 @@
         "NASA::MarsRovers::Rover" : "lib/NASA/MarsRovers/Rover.pm6"
     },
     "authors"      : [ "Zoffix Znet" ],
-    "source-url"   : "git://github.com/zoffixznet/perl6-NASA.git"
+    "source-url"   : "git://github.com/raku-community-modules/NASA.git"
 }
